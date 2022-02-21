@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Timilehin1
 - 👀 I’m interested in Software automation
-- 🌱 I’m currently learning Selenium Webdriver with Java
-- 💞️ I’m looking to collaborate on Java & Selenium projects
+- 🌱 I’m currently learning Selenium Webdriver with Python
+- 💞️ I’m looking to collaborate on Java, Phython with Selenium projects and also Cypress
 - 📫 How to reach me via my mail oyeniran.timilehin@gmail.com
 
 <!---
